@@ -1,4 +1,16 @@
-* {
-	margin: 0;
-	padding: 0;
-}
+
+.nav-item {
+	font-family: 'Yatra One', sans-serif ;	
+  }
+
+.btn {
+	  font-family: 'Exo 2', sans-serif;
+  }
+
+.carousel-caption p{
+
+	font-family: 'Bangers', cursive;
+	font-size: 34px;
+	letter-spacing: 0.7mm;
+	color: rgb(11, 225, 240);
+  }
